@@ -1,7 +1,3 @@
-<script setup>
-import MySwiper from './MySwiper.vue'
-</script>
-
 <template>
   <section id="home" class="grid place-items-center mt-20 md:mt-10 overflow-hidden">
     <div
