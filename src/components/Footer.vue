@@ -75,6 +75,10 @@
       <p class="md:text-lg font-medium text-center text-white mt-8 tracking-wider">
         &copy; Copyright, Halloweend 2021, All rights reserved.
       </p>
+
+      <h5 class="mt-10 text-white font-bold">
+        Nicely Designed By Patrick <span class="text-secondary">Afriyie</span> Wilson
+      </h5>
     </div>
   </footer>
 </template>
