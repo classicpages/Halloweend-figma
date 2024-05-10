@@ -21,7 +21,7 @@
           <input
             class="h-full flex-grow rounded-l-lg px-3 md:px-6 text-sm md:text-lg"
             type="text"
-            placeholder="Enter your email address"
+            placeholder="patrickafriyiewilson12345@gmail.com"
           />
           <button
             class="h-full px-3 lg:px-6 text-sm md:text-base text-white font-bold bg-secondary rounded-r-lg"
