@@ -13,6 +13,9 @@
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id id consequat, eu faucibus
           nulla. Ultrices mattis lacus, sed maecenas nascetur.
         </p>
+        <p class="mt-10 text-white text-2xl font-bold">
+          Designed By Patrick <span class="text-secondary">Afriyie</span> Wilson
+        </p>
       </div>
       <div class="w-full h-full order-1 lg:order-2"></div>
     </div>
