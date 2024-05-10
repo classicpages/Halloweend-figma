@@ -14,9 +14,7 @@
           nulla. Ultrices mattis lacus, sed maecenas nascetur.
         </p>
       </div>
-      <div class="w-full h-full order-1 lg:order-2">
-        <MySwiper />
-      </div>
+      <div class="w-full h-full order-1 lg:order-2"></div>
     </div>
     <div class="grid place-items-center gap-2 text-white font-medium pt-8">
       <svg class="w-5 md:w-6" viewBox="0 0 26 49" fill="none" xmlns="http://www.w3.org/2000/svg">
